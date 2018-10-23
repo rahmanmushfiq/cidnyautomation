@@ -18,6 +18,7 @@ public class Main {
     private static String projectPath = System.getProperty ("user.dir");
     private static String OperatingSystem = System.getProperty ("os.name");
     private static String time = LocalDateTime.now ().format (DateTimeFormatter.ISO_LOCAL_TIME);
+
     /**
      * For Windows Operating System
      */
@@ -31,7 +32,7 @@ public class Main {
     private static final String LINUXCHROMEDRIVERPATH = projectPath + "/drivers/chromedriver/chromedriver";
     private static final String LINUXGECKODRIVERPATH = projectPath + "/drivers/firefoxdriver/geckodriver";
 
-    public static void main (String[] args) throws InterruptedException {
+    public static void main (String[] args) throws Exception {
 
         while (true) {
             setBrowser ();
@@ -56,8 +57,15 @@ public class Main {
         CidnyDesignation cidnyDesignation = new CidnyDesignation (driver);
         cidnyDesignation.verifyLabelAndUrl ();
 
-        CidnyCorporateDocs cidnyCorporateDocs = new CidnyCorporateDocs (driver);
-        cidnyCorporateDocs.verifyLabelAndUrl ();
+        CidnySpecialAccommodation cidnySpecialAccommodation = new CidnySpecialAccommodation (driver);
+        cidnySpecialAccommodation.verifyLabelAndUrl ();
+
+        CidnyEducationalBackground cidnyEducationalBackground = new CidnyEducationalBackground (driver);
+        cidnyEducationalBackground.verifyLabelAndUrl ();
+
+        CidnyEmploymentStatus cidnyEmploymentStatus = new CidnyEmploymentStatus (driver);
+        cidnyEmploymentStatus.verifyLabelAndUrl ();
+
 
 //        CidnyPersonnelDetails cidnyPersonnelDetails = new CidnyPersonnelDetails (driver);
 //        cidnyPersonnelDetails.verifyLabelAndUrl ();
@@ -66,13 +74,13 @@ public class Main {
         tearDown ();
     }
 
-    private static void setBrowser () {
+    private static void setBrowser () throws Exception {
         Scanner input = new Scanner (System.in);
         System.out.println ("Which browser do you want to use ? ");
 //        browser = input.nextLine ();
     }
 
-    private static boolean setBrowserConfig () {
+    private static boolean setBrowserConfig () throws Exception {
         if (OperatingSystem.equalsIgnoreCase ("Windows")) {
             try {
                 if (browser.equalsIgnoreCase ("Chrome")) {
@@ -127,8 +135,7 @@ public class Main {
     /*
      * quit the browser and clear the session
      */
-
-    public static void tearDown () {
+    private static void tearDown () throws Exception {
         System.out.println ("Test Ended at: " + time);
         System.out.println (browser + " Browser is Closing....");
         if (browser.equalsIgnoreCase ("Firefox")) {
@@ -138,5 +145,6 @@ public class Main {
             driver.quit ();
         }
     }
+
 }
 

@@ -2,14 +2,12 @@ package tests.Configuration;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import pages.Configuration;
 import pages.links.ProjectLinks;
 import tests.facade.Facade;
 
 public class CidnyUserAndPermission {
     private WebDriver driver;
-    WebDriverWait wait;
 
     public CidnyUserAndPermission (WebDriver driver) {
         this.driver = driver;
@@ -18,6 +16,8 @@ public class CidnyUserAndPermission {
     public void verifyLabelAndUrl () throws InterruptedException {
         System.out.println ("**** User & Permission ****");
         String actualLabel = driver.findElement (By.xpath (Configuration.userAndPermissionLabelXpath)).getText ();
+        String userListStatus = driver.findElement (By.xpath (Configuration.userAndPermissionCountXpath)).getText ();
+        System.out.println ("Status: " + userListStatus);
         String expectedLabel = "User & Permission";
         String actualUrl = driver.getCurrentUrl ();
         String expectedUrl = ProjectLinks.userAndPermissionUrl;

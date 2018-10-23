@@ -18,6 +18,8 @@ public class CidnyDepartment {
     public void verifyLabelAndUrl () throws InterruptedException {
         System.out.println ("**** Department ****");
         String actualLabel = driver.findElement (By.xpath (Configuration.deptLabelXpath)).getText ();
+        String departmentListStatus = driver.findElement (By.xpath (Configuration.deptCountXpath)).getText ();
+        System.out.println ("Status: " + departmentListStatus);
         String expectedLabel = "Department";
         String actualUrl = driver.getCurrentUrl ();
         String expectedUrl = ProjectLinks.departmentUrl;

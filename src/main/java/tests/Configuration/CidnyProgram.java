@@ -18,6 +18,8 @@ public class CidnyProgram {
     public void verifyLabelAndUrl () throws InterruptedException {
         System.out.println ("**** Program ****");
         String actualLabel = driver.findElement (By.xpath (Configuration.programLabelXpath)).getText ();
+        String programListStatus = driver.findElement (By.xpath (Configuration.programCountXpath)).getText ();
+        System.out.println ("Status: " + programListStatus);
         String expectedLabel = "Program";
         String actualUrl = driver.getCurrentUrl ();
         String expectedUrl = ProjectLinks.programUrl;
