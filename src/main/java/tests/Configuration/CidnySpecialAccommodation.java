@@ -14,13 +14,13 @@ public class CidnySpecialAccommodation {
     }
 
     public void verifyLabelAndUrl () throws InterruptedException {
+        Thread.sleep (3000);
         System.out.println ("**** Special Accommodation ****");
         String actualLabel = driver.findElement (By.xpath (Configuration.specialAccommodationLabelXpath)).getText ();
         String expectedLabel = "Special Accommodation";
         String actualUrl = driver.getCurrentUrl ();
         String expectedUrl = ProjectLinks.accommodationUrl;
         Facade.verifyLabelAndUrl (expectedLabel, actualLabel, expectedUrl, actualUrl);
-        Thread.sleep (3000);
         driver.get (ProjectLinks.educationalUrl);
     }
 }

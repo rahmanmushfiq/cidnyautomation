@@ -14,6 +14,7 @@ public class CidnyUserAndPermission {
     }
 
     public void verifyLabelAndUrl () throws InterruptedException {
+        Thread.sleep (3000);
         System.out.println ("**** User & Permission ****");
         String actualLabel = driver.findElement (By.xpath (Configuration.userAndPermissionLabelXpath)).getText ();
         String userListStatus = driver.findElement (By.xpath (Configuration.userAndPermissionCountXpath)).getText ();
@@ -22,7 +23,6 @@ public class CidnyUserAndPermission {
         String actualUrl = driver.getCurrentUrl ();
         String expectedUrl = ProjectLinks.userAndPermissionUrl;
         Facade.verifyLabelAndUrl (expectedLabel, actualLabel, expectedUrl, actualUrl);
-        Thread.sleep (3000);
         driver.get (ProjectLinks.departmentUrl);
     }
 }

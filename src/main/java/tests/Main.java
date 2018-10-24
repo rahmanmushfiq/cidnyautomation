@@ -7,6 +7,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import pages.links.ProjectLinks;
 import tests.Configuration.*;
+import tests.Organization.*;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -14,7 +15,7 @@ import java.util.Scanner;
 
 public class Main {
     private static WebDriver driver;
-    private static String browser = "headless";
+    private static String browser = "chrome";
     private static String projectPath = System.getProperty ("user.dir");
     private static String OperatingSystem = System.getProperty ("os.name");
     private static String time = LocalDateTime.now ().format (DateTimeFormatter.ISO_LOCAL_TIME);
@@ -65,6 +66,30 @@ public class Main {
 
         CidnyEmploymentStatus cidnyEmploymentStatus = new CidnyEmploymentStatus (driver);
         cidnyEmploymentStatus.verifyLabelAndUrl ();
+
+        CidnyProfile cidnyProfile = new CidnyProfile (driver);
+        cidnyProfile.verifyLabelAndUrl ();
+
+        CidnyCorporateDocs cidnyCorporateDocs = new CidnyCorporateDocs (driver);
+        cidnyCorporateDocs.verifyLabelAndUrl ();
+
+        CidnyBoardOfDirector cidnyBoardOfDirector = new CidnyBoardOfDirector (driver);
+        cidnyBoardOfDirector.verifyLabelAndUrl ();
+
+        CidnyCommittee cidnyCommittee = new CidnyCommittee (driver);
+        cidnyCommittee.verifyLabelAndUrl ();
+
+        CidnyFundSource cidnyFundSource = new CidnyFundSource (driver);
+        cidnyFundSource.verifyLabelAndUrl ();
+
+        CidnyFunding cidnyFunding = new CidnyFunding (driver);
+        cidnyFunding.verifyLabelAndUrl ();
+
+        CidnyTargetArea cidnyTargetArea = new CidnyTargetArea (driver);
+        cidnyTargetArea.verifyLabelAndUrl ();
+
+        CidnyServices cidnyServices = new CidnyServices (driver);
+        cidnyServices.verifyLabelAndUrl ();
 
 
 //        CidnyPersonnelDetails cidnyPersonnelDetails = new CidnyPersonnelDetails (driver);

@@ -10,7 +10,6 @@ public class ProjectLinks {
     public static String accommodationUrl = baseUrl + "accommodation";
     public static String educationalUrl = baseUrl + "educational";
     public static String employmentUrl = baseUrl + "employement";
-    public static String corporateDocsCategoryUrl = baseUrl + "corporate-doc-category";
     public static String organizationProfileUrl = baseUrl + "org/profile";
     public static String corporateDocsUrl = baseUrl + "org/corpdocs";
     public static String bodUrl = baseUrl + "board-of-directors";

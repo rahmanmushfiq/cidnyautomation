@@ -14,13 +14,13 @@ public class CidnyEmploymentStatus {
     }
 
     public void verifyLabelAndUrl () throws InterruptedException {
+        Thread.sleep (3000);
         System.out.println ("**** Employment Status ****");
         String actualLabel = driver.findElement (By.xpath (Configuration.employmentStatusLabelXpath)).getText ();
         String expectedLabel = "Employment Status";
         String actualUrl = driver.getCurrentUrl ();
         String expectedUrl = ProjectLinks.employmentUrl;
         Facade.verifyLabelAndUrl (expectedLabel, actualLabel, expectedUrl, actualUrl);
-        Thread.sleep (3000);
-        driver.get (ProjectLinks.baseUrl);
+        driver.get (ProjectLinks.organizationProfileUrl);
     }
 }

@@ -16,6 +16,7 @@ public class CidnyDesignation {
     }
 
     public void verifyLabelAndUrl () throws InterruptedException {
+        Thread.sleep (3000);
         System.out.println ("**** Designation ****");
         String actualLabel = driver.findElement (By.xpath (Configuration.designationLabelXpath)).getText ();
         String designationListStatus = driver.findElement (By.xpath (Configuration.designationCountXpath)).getText ();
@@ -24,7 +25,6 @@ public class CidnyDesignation {
         String actualUrl = driver.getCurrentUrl ();
         String expectedUrl = ProjectLinks.designationUrl;
         Facade.verifyLabelAndUrl (expectedLabel, actualLabel, expectedUrl, actualUrl);
-        Thread.sleep (3000);
         driver.get (ProjectLinks.accommodationUrl);
     }
 }
