@@ -8,7 +8,7 @@ import pages.links.ProjectLinks;
 import tests.facade.Facade;
 
 public class CidnyProgram {
-    private WebDriver driver;
+    private final WebDriver driver;
     WebDriverWait wait;
 
     public CidnyProgram (WebDriver driver) {

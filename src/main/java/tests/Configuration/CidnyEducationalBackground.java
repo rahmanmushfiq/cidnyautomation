@@ -7,7 +7,7 @@ import pages.links.ProjectLinks;
 import tests.facade.Facade;
 
 public class CidnyEducationalBackground {
-    private WebDriver driver;
+    private final WebDriver driver;
 
     public CidnyEducationalBackground (WebDriver driver) {
         this.driver = driver;

@@ -7,7 +7,7 @@ import pages.links.ProjectLinks;
 import tests.facade.Facade;
 
 public class CidnyCommittee {
-    private WebDriver driver;
+    private final WebDriver driver;
 
     public CidnyCommittee (WebDriver driver) {
         this.driver = driver;

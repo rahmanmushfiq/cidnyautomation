@@ -13,7 +13,7 @@ public class CidnyLogin {
     private static WebDriver driver;
     public static String baseUrl;
     public int serial = 1;
-    private static String dateTime = LocalDateTime.now ().format (DateTimeFormatter.ISO_LOCAL_TIME);
+    private static final String dateTime = LocalDateTime.now ().format (DateTimeFormatter.ISO_LOCAL_TIME);
 
     public CidnyLogin (WebDriver driver, String baseUrl) {
         this.driver = driver;

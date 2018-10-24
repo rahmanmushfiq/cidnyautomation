@@ -15,10 +15,10 @@ import java.util.Scanner;
 
 public class Main {
     private static WebDriver driver;
-    private static String browser = "chrome";
-    private static String projectPath = System.getProperty ("user.dir");
-    private static String OperatingSystem = System.getProperty ("os.name");
-    private static String time = LocalDateTime.now ().format (DateTimeFormatter.ISO_LOCAL_TIME);
+    private static final String browser = "headless";
+    private static final String projectPath = System.getProperty ("user.dir");
+    private static final String OperatingSystem = System.getProperty ("os.name");
+    private static final String time = LocalDateTime.now ().format (DateTimeFormatter.ISO_LOCAL_TIME);
 
     /**
      * For Windows Operating System
@@ -99,13 +99,13 @@ public class Main {
         tearDown ();
     }
 
-    private static void setBrowser () throws Exception {
+    private static void setBrowser () {
         Scanner input = new Scanner (System.in);
         System.out.println ("Which browser do you want to use ? ");
 //        browser = input.nextLine ();
     }
 
-    private static boolean setBrowserConfig () throws Exception {
+    private static boolean setBrowserConfig () {
         if (OperatingSystem.equalsIgnoreCase ("Windows")) {
             try {
                 if (browser.equalsIgnoreCase ("Chrome")) {
@@ -160,7 +160,7 @@ public class Main {
     /*
      * quit the browser and clear the session
      */
-    private static void tearDown () throws Exception {
+    private static void tearDown () {
         System.out.println ("Test Ended at: " + time);
         System.out.println (browser + " Browser is Closing....");
         if (browser.equalsIgnoreCase ("Firefox")) {
