@@ -2,103 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea326567-06df-4678-8066-de20370631c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/Advocacy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/Budget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/CaseManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ClientIntake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ExternalOrganization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ExternalTrainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/Monitoring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ProgramActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/Projects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/TrainingManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/Configuration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/Credentials/Credentials.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/credentials/Credentials.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPageElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/Organization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/Organization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/PersonnelPageElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/PersonnelPageElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/links/ProjectLinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/links/ProjectLinks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Advocacy/CidnyAdvocacyArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/advocacy/CidnyAdvocacyArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Advocacy/CidnyAdvocacyManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/advocacy/CidnyAdvocacyManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Advocacy/CidnyLogActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/advocacy/CidnyLogActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Budget/CidnyExpense.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/budget/CidnyExpense.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Budget/CidnyLineItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/budget/CidnyLineItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Budget/CidnyMasterBudget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/budget/CidnyMasterBudget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Budget/CidnyProgramBudget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/budget/CidnyProgramBudget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/CaseManagement/CidnyCaseManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/casemanagement/CidnyCaseManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/CidnyLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/CidnyLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/ClientIntake/CidnyClientIntake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/clientintake/CidnyClientIntake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyDepartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyDepartment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyDesignation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyDesignation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyEducationalBackground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyEducationalBackground.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyEmploymentStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyEmploymentStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnySpecialAccommodation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/configuration/CidnySpecialAccommodation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyUserAndPermission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyUserAndPermission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Monitoring/CidnyFinancialMonitoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/monitoring/CidnyFinancialMonitoring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Monitoring/CidnyPersonnelMonitoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/monitoring/CidnyPersonnelMonitoring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Monitoring/CidnyProgramMonitoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/monitoring/CidnyProgramMonitoring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyBoardOfDirector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/organization/CidnyBoardOfDirector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyCommittee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/organization/CidnyCommittee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyCorporateDocs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/organization/CidnyCorporateDocs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyFundSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/organization/CidnyFundSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyFunding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/organization/CidnyFunding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/organization/CidnyProfile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/organization/CidnyServices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyTargetArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/organization/CidnyTargetArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Personnel/CidnyPersonnelDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/personnel/CidnyPersonnelDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/ProgramActivity/CidnyProgramActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/programactivity/CidnyProgramActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Projects/CidnyProjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/projects/CidnyProjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Training/CidnyExternalOrganization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/training/CidnyExternalOrganization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Training/CidnyExternalTrainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/training/CidnyExternalTrainer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Training/CidnyTrainingManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/training/CidnyTrainingManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/facade/Facade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/facade/Facade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/Configuration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/Configuration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/Credentials/Credentials.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/LoginPageElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/LoginPageElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/Organization.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/Organization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/PersonnelPageElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/PersonnelPageElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/links/ProjectLinks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/links/ProjectLinks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Advocacy/CidnyAdvocacyArea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Advocacy/CidnyAdvocacyManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Advocacy/CidnyLogActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Budget/CidnyExpense.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Budget/CidnyLineItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Budget/CidnyMasterBudget.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Budget/CidnyProgramBudget.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/CaseManagement/CidnyCaseManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/CidnyLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/CidnyLogin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/ClientIntake/CidnyClientIntake.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Configuration/CidnyDepartment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Configuration/CidnyDesignation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Configuration/CidnyEducationalBackground.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Configuration/CidnyEmploymentStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Configuration/CidnyProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Configuration/CidnySpecialAccommodation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Configuration/CidnyUserAndPermission.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Monitoring/CidnyFinancialMonitoring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Monitoring/CidnyPersonnelMonitoring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Monitoring/CidnyProgramMonitoring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Organization/CidnyBoardOfDirector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Organization/CidnyCommittee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Organization/CidnyCorporateDocs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Organization/CidnyFundSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Organization/CidnyFunding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Organization/CidnyProfile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Organization/CidnyServices.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Organization/CidnyTargetArea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Personnel/CidnyPersonnelDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/ProgramActivity/CidnyProgramActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Projects/CidnyProjects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Training/CidnyExternalOrganization.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Training/CidnyExternalTrainer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/Training/CidnyTrainingManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tests/facade/Facade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/facade/Facade.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,7 +15,7 @@
     <session id="-1828744046">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
+          <entry key="project.closed" value="24" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="3" />
@@ -170,7 +74,7 @@
         <counts>
           <entry key="git.branch.checkout.local" value="3" />
           <entry key="git.branch.create.new" value="1" />
-          <entry key="git.branch.merge" value="4" />
+          <entry key="git.branch.merge" value="5" />
         </counts>
       </usages-collector>
     </session>
@@ -183,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/tests/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="63" column="60" lean-forward="true" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
+            <state relative-caret-position="201">
+              <caret line="175" lean-forward="true" selection-start-line="175" selection-end-line="175" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -337,6 +241,9 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -365,7 +272,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540465507910" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540465813164" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -457,7 +364,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1366" height="741" extended-state="7" />
+    <frame x="0" y="-1" width="1366" height="741" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49933246" visible="true" weight="0.21072507" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -915,8 +822,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tests/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="63" column="60" lean-forward="true" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
+        <state relative-caret-position="201">
+          <caret line="175" lean-forward="true" selection-start-line="175" selection-end-line="175" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

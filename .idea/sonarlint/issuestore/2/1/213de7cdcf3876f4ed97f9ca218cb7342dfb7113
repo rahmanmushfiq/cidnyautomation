@@ -1,6 +1,6 @@
 
-Msquid:S1068"*Remove this unused "serial" private field.(Ş‘–·øÿÿÿÿ8½á‰Ğê,
-Asquid:S3010"#Remove this assignment of "driver".(ÁÜÑ¥8…ÛĞê,
+Ssquid:S2209"5Change this instance-reference to a static reference.(¿Î²”8…ÛĞê,
 Bsquid:S3010"$Remove this assignment of "baseUrl".(¿Î²”8…ÛĞê,
 Ssquid:S2209"5Change this instance-reference to a static reference.(ÁÜÑ¥8…ÛĞê,
-Ssquid:S2209"5Change this instance-reference to a static reference.(¿Î²”8…ÛĞê,
+Asquid:S3010"#Remove this assignment of "driver".(ÁÜÑ¥8…ÛĞê,
+Msquid:S1068"*Remove this unused "serial" private field.(Ş‘–·øÿÿÿÿ8½á‰Ğê,
