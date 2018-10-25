@@ -1,0 +1,50 @@
+
+Œ"squid:ClassVariableVisibilityCheck"^Make externalTrainerUrl a static final constant or non-public and provide accessors if needed.(×šñÔ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×¬Ø¿
+Osquid:S1444"8Make this "public static externalTrainerUrl" field final(×šñÔ
+Lsquid:S1444"5Make this "public static clientIntakeUrl" field final(‰†ÖÈ
+Tsquid:S1444 "8Make this "public static programActivityUrl" field final(”Ä¨ıøÿÿÿÿ
+"squid:ClassVariableVisibilityCheck%"bMake personnelMonitoringUrl a static final constant or non-public and provide accessors if needed.(É™†´
+qsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(äã¯]
+Rsquid:S1444!";Make this "public static advocacyManagementUrl" field final(¥‚¨¾
+Psquid:S1444"4Make this "public static externalOrgUrl" field final(˜Š€«øÿÿÿÿ
+“"squid:ClassVariableVisibilityCheck&"`Make programMonitoringUrl a static final constant or non-public and provide accessors if needed.(âà‰úûÿÿÿÿ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŒšÊıÿÿÿÿ
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(å ‘•8‘è²Ñê,
+Vsquid:S1444&":Make this "public static programMonitoringUrl" field final(âà‰úûÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck""[Make advocacyAreaUrl a static final constant or non-public and provide accessors if needed.(Ç¡³¨
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢È–Ùùÿÿÿÿ
+‘"squid:ClassVariableVisibilityCheck "^Make programActivityUrl a static final constant or non-public and provide accessors if needed.(”Ä¨ıøÿÿÿÿ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ôÒóØùÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"ZMake externalOrgUrl a static final constant or non-public and provide accessors if needed.(˜Š€«øÿÿÿÿ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘Ğ¡õ
+Ssquid:S1444%"<Make this "public static personnelMonitoringUrl" field final(É™†´
+‰"squid:ClassVariableVisibilityCheck"VMake projectUrl a static final constant or non-public and provide accessors if needed.(ÃÖÔÏÿÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"[Make clientIntakeUrl a static final constant or non-public and provide accessors if needed.(‰†ÖÈ
+Š"squid:ClassVariableVisibilityCheck"]Make casemanagementUrl a static final constant or non-public and provide accessors if needed.(ú€E
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡•î¤
+"squid:ClassVariableVisibilityCheck"aMake trainingManagementUrl a static final constant or non-public and provide accessors if needed.(îÒÎË
+rsquid:S00115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘Ì½â
+"squid:ClassVariableVisibilityCheck!"aMake advocacyManagementUrl a static final constant or non-public and provide accessors if needed.(¥‚¨¾
+Lsquid:S1444""5Make this "public static advocacyAreaUrl" field final(Ç¡³¨
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ÿ¬–ùÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(—şøËÿÿÿÿÿ
+"squid:ClassVariableVisibilityCheck#"ZMake logActivityUrl a static final constant or non-public and provide accessors if needed.(¿°™˜üÿÿÿÿ
+Psquid:S1444#"4Make this "public static logActivityUrl" field final(¿°™˜üÿÿÿÿ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯õ“ö
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´Ÿ³üÿÿÿÿ
+qsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(øóÍ2
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ä¨‡ 
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(š‹È¶8ïûÏĞê,
+"squid:ClassVariableVisibilityCheck$"bMake financialMonitoringUrl a static final constant or non-public and provide accessors if needed.(ÙãÀ
+Rsquid:S1444$"<Make this "public static financialMonitoringUrl" field final(ÙãÀ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñâ§øÿÿÿÿ
+Msquid:S1444"7Make this "public static casemanagementUrl" field final(ú€E
+Rsquid:S1444";Make this "public static trainingManagementUrl" field final(îÒÎË
+rsquid:S00115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡î‡‚
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±´˜õüÿÿÿÿ8ŸòúĞê,
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ç·…¿şÿÿÿÿ
+Lsquid:S1444"0Make this "public static projectUrl" field final(ÃÖÔÏÿÿÿÿÿ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚ÙÛÅ
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×†‹ 8Óˆ³Ñê,

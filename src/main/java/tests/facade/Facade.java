@@ -1,5 +1,7 @@
 package tests.facade;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -10,21 +12,22 @@ import java.net.URL;
 import java.util.List;
 
 public class Facade {
+    static Logger logger = LogManager.getLogger (Facade.class);
     private static int serial = 1;
 
     public static void verifyLabelAndUrl (String expectedLabel, String actualLabel, String expectedUrl, String actualUrl) {
         Assert.assertEquals (expectedLabel, actualLabel);
         Assert.assertEquals (expectedUrl, actualUrl);
-        System.out.println ("Page Label is Verified as: " + actualLabel);
-        System.out.println ("Page URL is Verified as: " + actualUrl);
+        logger.info ("Page Label is Verified as: " + actualLabel);
+        logger.info ("Page URL is Verified as: " + actualUrl);
     }
 
     public static void checkBrokenLinks (WebDriver driver) {
         List<WebElement> links = driver.findElements (By.tagName ("a"));
-        System.out.println ("Total " + (links.size () - 1) + " Links found !");
+        logger.info ("Total " + (links.size () - 1) + " Links found !");
         for (int i = 1; i < links.size (); i++) {
             WebElement element = links.get (i);
-            System.out.print (serial + ": ");
+            logger.info (serial + ": ");
             String url = element.getAttribute ("href");
             serial++;
             verifyUrl (url);
@@ -51,7 +54,7 @@ public class Facade {
         }
         //getResponseCode method returns = IOException - if an error occurred connecting to the server.
         catch (Exception e) {
-            e.printStackTrace ();
+            logger.error ("Exception: " + e);
         }
     }
 }

@@ -2,27 +2,103 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea326567-06df-4678-8066-de20370631c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/Advocacy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/Budget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/CaseManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ClientIntake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ExternalOrganization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ExternalTrainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/Monitoring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ProgramActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/Projects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/TrainingManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/Credentials/Credentials.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/credentials/Credentials.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPageElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/Organization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/Organization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/PersonnelPageElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/PersonnelPageElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/links/ProjectLinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/links/ProjectLinks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Advocacy/CidnyAdvocacyArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/advocacy/CidnyAdvocacyArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Advocacy/CidnyAdvocacyManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/advocacy/CidnyAdvocacyManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Advocacy/CidnyLogActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/advocacy/CidnyLogActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Budget/CidnyExpense.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/budget/CidnyExpense.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Budget/CidnyLineItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/budget/CidnyLineItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Budget/CidnyMasterBudget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/budget/CidnyMasterBudget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Budget/CidnyProgramBudget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/budget/CidnyProgramBudget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/CaseManagement/CidnyCaseManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/casemanagement/CidnyCaseManagement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tests/CidnyLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/CidnyLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyDesignation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyDesignation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyEducationalBackground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyEducationalBackground.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyEmploymentStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyEmploymentStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnySpecialAccommodation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnySpecialAccommodation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyUserAndPermission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyUserAndPermission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/ClientIntake/CidnyClientIntake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/clientintake/CidnyClientIntake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyDepartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyDepartment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyDesignation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyDesignation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyEducationalBackground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyEducationalBackground.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyEmploymentStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyEmploymentStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnySpecialAccommodation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/configuration/CidnySpecialAccommodation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyUserAndPermission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyUserAndPermission.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tests/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyBoardOfDirector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyBoardOfDirector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyCommittee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyCommittee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyCorporateDocs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyCorporateDocs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyFundSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyFundSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyFunding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyFunding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyProfile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyServices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyTargetArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyTargetArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Monitoring/CidnyFinancialMonitoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/monitoring/CidnyFinancialMonitoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Monitoring/CidnyPersonnelMonitoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/monitoring/CidnyPersonnelMonitoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Monitoring/CidnyProgramMonitoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/monitoring/CidnyProgramMonitoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyBoardOfDirector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/organization/CidnyBoardOfDirector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyCommittee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/organization/CidnyCommittee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyCorporateDocs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/organization/CidnyCorporateDocs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyFundSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/organization/CidnyFundSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyFunding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/organization/CidnyFunding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/organization/CidnyProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/organization/CidnyServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyTargetArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/organization/CidnyTargetArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Personnel/CidnyPersonnelDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/personnel/CidnyPersonnelDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/ProgramActivity/CidnyProgramActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/programactivity/CidnyProgramActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Projects/CidnyProjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/projects/CidnyProjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Training/CidnyExternalOrganization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/training/CidnyExternalOrganization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Training/CidnyExternalTrainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/training/CidnyExternalTrainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Training/CidnyTrainingManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/training/CidnyTrainingManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/facade/Facade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/facade/Facade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/Configuration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/Configuration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/Credentials/Credentials.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/LoginPageElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/LoginPageElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/Organization.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/Organization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/PersonnelPageElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/PersonnelPageElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/links/ProjectLinks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/links/ProjectLinks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Advocacy/CidnyAdvocacyArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Advocacy/CidnyAdvocacyManagement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Advocacy/CidnyLogActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Budget/CidnyExpense.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Budget/CidnyLineItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Budget/CidnyMasterBudget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Budget/CidnyProgramBudget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/CaseManagement/CidnyCaseManagement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/CidnyLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/CidnyLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/ClientIntake/CidnyClientIntake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Configuration/CidnyDepartment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Configuration/CidnyDesignation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Configuration/CidnyEducationalBackground.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Configuration/CidnyEmploymentStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Configuration/CidnyProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Configuration/CidnySpecialAccommodation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Configuration/CidnyUserAndPermission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Monitoring/CidnyFinancialMonitoring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Monitoring/CidnyPersonnelMonitoring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Monitoring/CidnyProgramMonitoring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Organization/CidnyBoardOfDirector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Organization/CidnyCommittee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Organization/CidnyCorporateDocs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Organization/CidnyFundSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Organization/CidnyFunding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Organization/CidnyProfile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Organization/CidnyServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Organization/CidnyTargetArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Personnel/CidnyPersonnelDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/ProgramActivity/CidnyProgramActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Projects/CidnyProjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Training/CidnyExternalOrganization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Training/CidnyExternalTrainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Training/CidnyTrainingManagement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/facade/Facade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/facade/Facade.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,54 +111,66 @@
     <session id="-1828744046">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="23" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="2" />
-          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="4" />
           <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.17" value="3" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="3" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="data" value="2" />
-          <entry key="java" value="174" />
-          <entry key="xml" value="2" />
+          <entry key="java" value="363" />
+          <entry key="log" value="4" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="174" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="XML" value="2" />
+          <entry key="JAVA" value="363" />
+          <entry key="Log" value="3" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="11" />
-          <entry key="java" value="8818" />
-          <entry key="xml" value="3" />
+          <entry key="java" value="13095" />
+          <entry key="log" value="2" />
+          <entry key="properties" value="27" />
+          <entry key="txt" value="40" />
+          <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8818" />
-          <entry key="PLAIN_TEXT" value="11" />
-          <entry key="XML" value="3" />
+          <entry key="JAVA" value="13095" />
+          <entry key="Log" value="2" />
+          <entry key="PLAIN_TEXT" value="51" />
+          <entry key="Properties" value="27" />
+          <entry key="XML" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
+          <entry key="git.branch.checkout.local" value="3" />
           <entry key="git.branch.create.new" value="1" />
-          <entry key="git.branch.merge" value="2" />
+          <entry key="git.branch.merge" value="4" />
         </counts>
       </usages-collector>
     </session>
@@ -95,106 +183,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/tests/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnySpecialAccommodation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyEducationalBackground.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyEmploymentStatus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tests/Advocacy/CidnyAdvocacyArea.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pages/Credentials/Credentials.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyDepartment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyUserAndPermission.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="24" column="86" selection-start-line="24" selection-start-column="86" selection-end-line="24" selection-end-column="86" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyDesignation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="26" column="86" selection-start-line="26" selection-start-column="86" selection-end-line="26" selection-end-column="86" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyProgram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            <state relative-caret-position="64">
+              <caret line="63" column="60" lean-forward="true" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -213,8 +203,15 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>System.out.println</find>
+      <find>projectPath</find>
       <find>baseUrl</find>
     </findStrings>
+    <replaceStrings>
+      <replace>logger.info</replace>
+      <replace>PROJECTPATH</replace>
+      <replace>BASEURL</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -225,59 +222,73 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyUserAndPermission.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyDepartment.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyUserAndPermission.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/pages/links/ProjectLinks.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyDepartment.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/tests/CidnyLogin.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/tests/Personnel/CidnyPersonnelDetails.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyEmploymentStatus.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/tests/personnel/CidnyPersonnelDetails.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyEmploymentStatus.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/tests/Main.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyProgram.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyDesignation.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyProgram.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyDesignation.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/log4j2.properties" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/pages/LoginPageElements.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Elements.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cidnyLogin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/Elements.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/loginElements.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/cidnyLogin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/SetUp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/loginPageElements.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/userAndPermissionPageElement.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/Credentials/Credentials.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/CidnyDepartment.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/CidnyUserAndPermission.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/PersonnelPageElement.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/LoginPageElements.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Personnel/CidnyPersonnelDetails.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/CidnyLogin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/facade/LoginAndLogout.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyCorporateDocs.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/facade/Facade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/credentials/Credentials.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/Budget.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/Configuration.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/links/ProjectLinks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/LoginPageElements.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/Organization.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyCorporateDocs.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyProfile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyBoardOfDirector.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyCommittee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyFundSource.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyFunding.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyTargetArea.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Organization/CidnyServices.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyDepartment.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyUserAndPermission.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyProgram.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyDesignation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnySpecialAccommodation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyEducationalBackground.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyEmploymentStatus.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Advocacy/CidnyAdvocacyArea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/PersonnelPageElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/links/ProjectLinks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/CidnyLogin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyUserAndPermission.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyDepartment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyProgram.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyDesignation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/configuration/CidnySpecialAccommodation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyEducationalBackground.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/configuration/CidnyEmploymentStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/organization/CidnyProfile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/organization/CidnyCorporateDocs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/organization/CidnyBoardOfDirector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/organization/CidnyCommittee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/organization/CidnyFundSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/organization/CidnyFunding.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/organization/CidnyTargetArea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/organization/CidnyServices.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/personnel/CidnyPersonnelDetails.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/budget/CidnyLineItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/budget/CidnyMasterBudget.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/budget/CidnyProgramBudget.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/budget/CidnyExpense.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/Projects.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/ClientIntake.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/CaseManagement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/projects/CidnyProjects.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/clientintake/CidnyClientIntake.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/casemanagement/CidnyCaseManagement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/ExternalOrganization.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/ExternalTrainer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/training/CidnyExternalOrganization.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/training/CidnyExternalTrainer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/training/CidnyTrainingManagement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/ProgramActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/Advocacy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/programactivity/CidnyProgramActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/advocacy/CidnyAdvocacyManagement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/advocacy/CidnyAdvocacyArea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/advocacy/CidnyLogActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/Monitoring.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/monitoring/CidnyFinancialMonitoring.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/monitoring/CidnyPersonnelMonitoring.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/monitoring/CidnyProgramMonitoring.java" />
         <option value="$PROJECT_DIR$/src/main/java/tests/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/TrainingManagement.java" />
       </list>
     </option>
   </component>
@@ -323,7 +334,9 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -342,54 +355,7 @@
             <path>
               <item name="CidnyAutomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="CidnyAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CidnyAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CidnyAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CidnyAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CidnyAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CidnyAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CidnyAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CidnyAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CidnyAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="links" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CidnyAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CidnyAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CidnyAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CidnyAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="Configuration" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -399,13 +365,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540377440803" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540465507910" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -426,7 +392,7 @@
       <module name="CidnyAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.Configuration.*" />
+          <option name="PATTERN" value="tests.configuration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -464,6 +430,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -478,13 +446,20 @@
       <option name="presentableId" value="Default" />
       <updated>1539428403304</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated with latest Tests">
+      <created>1540378884404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540378884404</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1366" height="741" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="-1" width="1366" height="741" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49933246" visible="true" weight="0.19561933" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49933246" visible="true" weight="0.21072507" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -492,17 +467,18 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5006676" side_tool="true" weight="0.18723099" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" weight="0.47826087" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" weight="0.60225445" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44570503" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.6215781" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.52979064" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007576" side_tool="true" weight="0.4605475" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32850242" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3268921" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.8067633" />
+      <window_info anchor="bottom" id="SonarLint" order="12" weight="0.32850242" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -510,7 +486,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32954547" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32930514" />
       <window_info anchor="right" id="Flutter Inspector" order="8" />
       <window_info anchor="right" id="Flutter Outline" order="9" weight="0.32954547" />
     </layout>
@@ -518,374 +494,429 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated with latest Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated with latest Tests" />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/som.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/SetUp.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/userAndPermissionPageElement.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/Configuration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Budget/CidnyLineItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Budget/CidnyMasterBudget.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Budget/CidnyProgramBudget.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Budget/CidnyExpense.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Projects/CidnyProjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/ClientIntake/CidnyClientIntake.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/CaseManagement/CidnyCaseManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Training/CidnyExternalOrganization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Training/CidnyExternalTrainer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Training/CidnyTrainingManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/ProgramActivity/CidnyProgramActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Advocacy/CidnyAdvocacyManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Advocacy/CidnyLogActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Monitoring/CidnyFinancialMonitoring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Monitoring/CidnyPersonnelMonitoring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Monitoring/CidnyProgramMonitoring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/net/URL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="626" selection-start-line="626" selection-end-line="626" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cookies.data" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Personnel/CidnyPersonnelDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/facade/LoginAndLogout.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyCorporateDocs.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/facade/Facade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        <state relative-caret-position="-88">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/LoginPageElements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/PersonnelPageElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/Configuration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/links/ProjectLinks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/CidnyLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        <state relative-caret-position="322">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/Organization.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="18" column="92" selection-start-line="18" selection-start-column="92" selection-end-line="18" selection-end-column="92" />
+        <state relative-caret-position="324">
+          <caret line="47" column="49" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Organization/CidnyProfile.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/PersonnelPageElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="92">
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/Budget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/CidnyLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyUserAndPermission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+          <folding>
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyDepartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyDesignation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnySpecialAccommodation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyEducationalBackground.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyEmploymentStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/organization/CidnyProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/organization/CidnyCorporateDocs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/organization/CidnyBoardOfDirector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/organization/CidnyCommittee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/organization/CidnyFundSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/organization/CidnyFunding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/organization/CidnyTargetArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/personnel/CidnyPersonnelDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Organization/CidnyCorporateDocs.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/budget/CidnyLineItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="422">
+          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Organization/CidnyBoardOfDirector.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/budget/CidnyMasterBudget.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        <state relative-caret-position="463">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Organization/CidnyCommittee.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/budget/CidnyProgramBudget.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="371">
+          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Organization/CidnyFundSource.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/organization/CidnyServices.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="397">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Organization/CidnyFunding.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/budget/CidnyExpense.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="109">
+          <caret line="11" selection-start-line="11" selection-end-line="29" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Organization/CidnyTargetArea.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/Projects.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="69">
+          <caret line="3" column="43" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/CaseManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/projects/CidnyProjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Organization/CidnyServices.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/clientintake/CidnyClientIntake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" selection-start-line="11" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ExternalOrganization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ExternalTrainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ProgramActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="97" selection-start-line="4" selection-start-column="97" selection-end-line="4" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ClientIntake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/links/ProjectLinks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/Advocacy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="19" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/Monitoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/casemanagement/CidnyCaseManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/training/CidnyExternalOrganization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="28" column="44" lean-forward="true" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/training/CidnyExternalTrainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/programactivity/CidnyProgramActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="28" column="44" lean-forward="true" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/advocacy/CidnyAdvocacyManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="28" column="39" lean-forward="true" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/advocacy/CidnyAdvocacyArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="28" column="49" lean-forward="true" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/advocacy/CidnyLogActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="28" column="57" lean-forward="true" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/monitoring/CidnyFinancialMonitoring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyDepartment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyUserAndPermission.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="24" column="86" selection-start-line="24" selection-start-column="86" selection-end-line="24" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyProgram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyDesignation.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/monitoring/CidnyPersonnelMonitoring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="26" column="86" selection-start-line="26" selection-start-column="86" selection-end-line="26" selection-end-column="86" />
+        <state relative-caret-position="187">
+          <caret line="18" column="66" lean-forward="true" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnySpecialAccommodation.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/monitoring/CidnyProgramMonitoring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyEducationalBackground.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="371">
+          <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Configuration/CidnyEmploymentStatus.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/training/CidnyTrainingManagement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="295">
+          <caret line="21" column="92" lean-forward="true" selection-start-line="21" selection-start-column="92" selection-end-line="21" selection-end-column="92" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/Advocacy/CidnyAdvocacyArea.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/TrainingManagement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        <state relative-caret-position="92">
+          <caret line="4" column="104" selection-start-line="4" selection-start-column="104" selection-end-line="4" selection-end-column="104" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/Credentials/Credentials.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+    <entry file="file://$PROJECT_DIR$/logs/CidnyAutomationLog.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="447">
+          <caret line="287" column="43" lean-forward="true" selection-start-line="287" selection-start-column="43" selection-end-line="287" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tests/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        <state relative-caret-position="64">
+          <caret line="63" column="60" lean-forward="true" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
