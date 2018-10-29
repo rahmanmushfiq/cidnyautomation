@@ -9,8 +9,8 @@ import pages.links.ProjectLinks;
 import tests.facade.Facade;
 
 public class CidnyProgramActivity {
-    private WebDriver driver;
-    private static Logger logger = LogManager.getLogger (CidnyProgramActivity.class);
+    private final WebDriver driver;
+    private static final Logger logger = LogManager.getLogger (CidnyProgramActivity.class);
 
     public CidnyProgramActivity (WebDriver driver) {
         this.driver = driver;

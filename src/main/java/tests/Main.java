@@ -33,14 +33,14 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-public class Main {
+class Main {
     private static WebDriver driver;
     private static String browser;
     private static final String PROJECTPATH = System.getProperty ("user.dir");
     private static final String OS = System.getProperty ("os.name");
     private static final String TIME = LocalDateTime.now ().format (DateTimeFormatter.ISO_LOCAL_TIME);
-    private static Logger logger = LogManager.getLogger (Main.class);
-
+    private static final Logger logger = LogManager.getLogger (Main.class);
+    
     /**
      * For Windows Operating System
      */
@@ -65,6 +65,7 @@ public class Main {
         while (true) {
             setBrowser ();
             if (setBrowserConfig ()) {
+                logger.info ("Test Started At: " + TIME);
                 break;
             }
         }
@@ -250,4 +251,3 @@ public class Main {
         }
     }
 }
-

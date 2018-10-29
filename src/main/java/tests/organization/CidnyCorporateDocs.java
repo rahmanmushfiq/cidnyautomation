@@ -10,7 +10,7 @@ import tests.facade.Facade;
 
 public class CidnyCorporateDocs {
     private final WebDriver driver;
-    private static Logger logger = LogManager.getLogger (CidnyCorporateDocs.class);
+    private static final Logger logger = LogManager.getLogger (CidnyCorporateDocs.class);
 
     public CidnyCorporateDocs (WebDriver driver) {
         this.driver = driver;

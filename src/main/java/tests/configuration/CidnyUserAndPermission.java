@@ -10,7 +10,7 @@ import tests.facade.Facade;
 
 public class CidnyUserAndPermission {
     private final WebDriver driver;
-    private static Logger logger = LogManager.getLogger (CidnyUserAndPermission.class);
+    private static final Logger logger = LogManager.getLogger (CidnyUserAndPermission.class);
 
     public CidnyUserAndPermission (WebDriver driver) {
         this.driver = driver;

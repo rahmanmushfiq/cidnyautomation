@@ -2,7 +2,9 @@ package pages.credentials;
 
 public class Credentials {
     /*
-    New department credentials
-     */
-    public static String departmentName = "iQuantile";
+    credentials
+    */
+    public static final String VALIDEMAIL = "test@cidny.org";
+    public static final String VALIDPASS = "12345678";
+
 }

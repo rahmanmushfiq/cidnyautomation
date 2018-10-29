@@ -10,7 +10,7 @@ import tests.facade.Facade;
 
 public class CidnyEducationalBackground {
     private final WebDriver driver;
-    private static Logger logger = LogManager.getLogger (CidnyEducationalBackground.class);
+    private static final Logger logger = LogManager.getLogger (CidnyEducationalBackground.class);
 
 
     public CidnyEducationalBackground (WebDriver driver) {

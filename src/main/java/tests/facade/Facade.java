@@ -12,7 +12,11 @@ import java.net.URL;
 import java.util.List;
 
 public class Facade {
-    static Logger logger = LogManager.getLogger (Facade.class);
+    private Facade () {
+
+    }
+
+    private static final Logger logger = LogManager.getLogger (Facade.class);
     private static int serial = 1;
 
     public static void verifyLabelAndUrl (String expectedLabel, String actualLabel, String expectedUrl, String actualUrl) {

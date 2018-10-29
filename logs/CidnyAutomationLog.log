@@ -1,302 +1,166 @@
-[INFO ] 2018-10-25 Main - Which browser do you want to use ? 
-[INFO ] 2018-10-25 CidnyLogin - Base URL is: http://192.168.1.121:8080/#/
-[INFO ] 2018-10-25 CidnyLogin - Test Started at: 16:57:56.867
-[INFO ] 2018-10-25 CidnyLogin - Successfully Logged In !
-[INFO ] 2018-10-25 CidnyLogin - Page Title is: CIDNY
-[INFO ] 2018-10-25 CidnyLogin - Dashboard URL: http://192.168.1.121:8080/#/dashboard
-[INFO ] 2018-10-25 Facade - Total 35 Links found !
-[INFO ] 2018-10-25 Facade - 1: 
-[INFO ] 2018-10-25 Facade - 2: 
-[INFO ] 2018-10-25 Facade - 3: 
-[INFO ] 2018-10-25 Facade - 4: 
-[INFO ] 2018-10-25 Facade - 5: 
-[INFO ] 2018-10-25 Facade - 6: 
-[INFO ] 2018-10-25 Facade - 7: 
-[INFO ] 2018-10-25 Facade - 8: 
-[INFO ] 2018-10-25 Facade - 9: 
-[INFO ] 2018-10-25 Facade - 10: 
-[INFO ] 2018-10-25 Facade - 11: 
-[INFO ] 2018-10-25 Facade - 12: 
-[INFO ] 2018-10-25 Facade - 13: 
-[INFO ] 2018-10-25 Facade - 14: 
-[INFO ] 2018-10-25 Facade - 15: 
-[INFO ] 2018-10-25 Facade - 16: 
-[INFO ] 2018-10-25 Facade - 17: 
-[INFO ] 2018-10-25 Facade - 18: 
-[INFO ] 2018-10-25 Facade - 19: 
-[INFO ] 2018-10-25 Facade - 20: 
-[INFO ] 2018-10-25 Facade - 21: 
-[INFO ] 2018-10-25 Facade - 22: 
-[INFO ] 2018-10-25 Facade - 23: 
-[INFO ] 2018-10-25 Facade - 24: 
-[INFO ] 2018-10-25 Facade - 25: 
-[INFO ] 2018-10-25 Facade - 26: 
-[INFO ] 2018-10-25 Facade - 27: 
-[INFO ] 2018-10-25 Facade - 28: 
-[INFO ] 2018-10-25 Facade - 29: 
-[INFO ] 2018-10-25 Facade - 30: 
-[INFO ] 2018-10-25 Facade - 31: 
-[INFO ] 2018-10-25 Facade - 32: 
-[INFO ] 2018-10-25 Facade - 33: 
-[INFO ] 2018-10-25 Facade - 34: 
-[INFO ] 2018-10-25 Facade - 35: 
-[INFO ] 2018-10-25 CidnyUserAndPermission - **** User & Permission ****
-[INFO ] 2018-10-25 CidnyUserAndPermission - Status: Currently Listed 3 User
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: User & Permission
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/userPermission
-[INFO ] 2018-10-25 CidnyDepartment - **** Department ****
-[INFO ] 2018-10-25 CidnyDepartment - Status: Currently Listed 8 Department
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Department
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/department
-[INFO ] 2018-10-25 CidnyProgram - **** Program ****
-[INFO ] 2018-10-25 CidnyProgram - Status: Currently Listed 12 Program
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Program
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/program
-[INFO ] 2018-10-25 CidnyDesignation - **** Designation ****
-[INFO ] 2018-10-25 CidnyDesignation - Status: Currently Listed 13 Designation
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Designation
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/designation
-[INFO ] 2018-10-25 CidnySpecialAccommodation - **** Special Accommodation ****
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Special Accommodation
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/accommodation
-[INFO ] 2018-10-25 CidnyEducationalBackground - **** Educational Background ****
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Educational Background
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/educational
-[INFO ] 2018-10-25 CidnyEmploymentStatus - **** Employment Status ****
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Employment Status
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/employement
-[INFO ] 2018-10-25 CidnyProfile - **** Profile ****
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Profile
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/org/profile
-[INFO ] 2018-10-25 CidnyCorporateDocs - **** Corporate Documents ****
-[INFO ] 2018-10-25 CidnyCorporateDocs - Status: Currently Listed 3 File
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Corporate Documents
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/org/corpdocs
-[INFO ] 2018-10-25 CidnyBoardOfDirector - **** Board Of Directors ****
-[INFO ] 2018-10-25 CidnyBoardOfDirector - Status: Currently Listed 6 Board Member
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Board Of Directors
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/board-of-directors
-[INFO ] 2018-10-25 CidnyCommittee - **** Committee ****
-[INFO ] 2018-10-25 CidnyCommittee - Status: Currently Listed 1 Committee
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Committee
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/committee
-[INFO ] 2018-10-25 CidnyFundSource - **** Fund Source ****
-[INFO ] 2018-10-25 CidnyFundSource - Status: Currently Listed 6 Fund Source
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Fund Source
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/source
-[INFO ] 2018-10-25 CidnyFunding - **** Funding ****
-[INFO ] 2018-10-25 CidnyFunding - Status: Currently Listed 9 Funding
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Funding
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/funds
-[INFO ] 2018-10-25 CidnyTargetArea - **** Target Area ****
-[INFO ] 2018-10-25 CidnyTargetArea - Status: Currently Listed 2 Target Area
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Target Area
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/org/target-area
-[INFO ] 2018-10-25 CidnyServices - **** Services ****
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Services
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/org/serve-services
-[INFO ] 2018-10-25 CidnyPersonnelDetails - **** Personnel ****
-[INFO ] 2018-10-25 CidnyPersonnelDetails - Status: Currently Listed 12 People
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Personnel Details
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/personnel
-[INFO ] 2018-10-25 CidnyLineItem - **** Line Item ****
-[INFO ] 2018-10-25 CidnyLineItem - Status: Currently Listed 9 Line Item
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Line Item
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/line-item
-[INFO ] 2018-10-25 CidnyMasterBudget - **** Master Budget ****
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Master Budget
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/master-budget
-[INFO ] 2018-10-25 CidnyProgramBudget - **** Program Budget ****
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Program Budget
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/program-budget
-[INFO ] 2018-10-25 CidnyExpense - **** Expense ****
-[INFO ] 2018-10-25 CidnyExpense - Status: Currently Listed 17 Expense
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Expense
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/expense
-[INFO ] 2018-10-25 CidnyProjects - **** Projects ****
-[INFO ] 2018-10-25 CidnyProjects - Status: Currently Listed 5 Project
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Projects
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/project
-[INFO ] 2018-10-25 CidnyClientIntake - **** Client Intake ****
-[INFO ] 2018-10-25 CidnyClientIntake - Status: Currently Listed 27 Client
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Client Intake
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/client-intake
-[INFO ] 2018-10-25 CidnyCaseManagement - **** Case Management ****
-[INFO ] 2018-10-25 CidnyCaseManagement - Status: Currently Listed 17 Case
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Case Management
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/casemanagement
-[INFO ] 2018-10-25 CidnyExternalOrganization - **** External Organization ****
-[INFO ] 2018-10-25 CidnyExternalOrganization - Status: Currently Listed 3 External Organization
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: External Organization
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/training/externalOrganization
-[INFO ] 2018-10-25 CidnyExternalTrainer - **** External Trainer ****
-[INFO ] 2018-10-25 CidnyExternalTrainer - Status: Currently Listed 2 External Trainer
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: External Trainer
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/training/externalTrainer
-[INFO ] 2018-10-25 CidnyTrainingManagement - **** Training Management ****
-[INFO ] 2018-10-25 Main - Which browser do you want to use ? 
-[INFO ] 2018-10-25 CidnyLogin - Base URL is: http://192.168.1.121:8080/#/
-[INFO ] 2018-10-25 CidnyLogin - Test Started at: 17:01:08.316
-[INFO ] 2018-10-25 CidnyLogin - Successfully Logged In !
-[INFO ] 2018-10-25 CidnyLogin - Page Title is: CIDNY
-[INFO ] 2018-10-25 CidnyLogin - Dashboard URL: http://192.168.1.121:8080/#/dashboard
-[INFO ] 2018-10-25 Facade - Total 35 Links found !
-[INFO ] 2018-10-25 Facade - 1: 
-[INFO ] 2018-10-25 Facade - 2: 
-[INFO ] 2018-10-25 Facade - 3: 
-[INFO ] 2018-10-25 Facade - 4: 
-[INFO ] 2018-10-25 Facade - 5: 
-[INFO ] 2018-10-25 Facade - 6: 
-[INFO ] 2018-10-25 Facade - 7: 
-[INFO ] 2018-10-25 Facade - 8: 
-[INFO ] 2018-10-25 Facade - 9: 
-[INFO ] 2018-10-25 Facade - 10: 
-[INFO ] 2018-10-25 Facade - 11: 
-[INFO ] 2018-10-25 Facade - 12: 
-[INFO ] 2018-10-25 Facade - 13: 
-[INFO ] 2018-10-25 Facade - 14: 
-[INFO ] 2018-10-25 Facade - 15: 
-[INFO ] 2018-10-25 Facade - 16: 
-[INFO ] 2018-10-25 Facade - 17: 
-[INFO ] 2018-10-25 Facade - 18: 
-[INFO ] 2018-10-25 Facade - 19: 
-[INFO ] 2018-10-25 Facade - 20: 
-[INFO ] 2018-10-25 Facade - 21: 
-[INFO ] 2018-10-25 Facade - 22: 
-[INFO ] 2018-10-25 Facade - 23: 
-[INFO ] 2018-10-25 Facade - 24: 
-[INFO ] 2018-10-25 Facade - 25: 
-[INFO ] 2018-10-25 Facade - 26: 
-[INFO ] 2018-10-25 Facade - 27: 
-[INFO ] 2018-10-25 Facade - 28: 
-[INFO ] 2018-10-25 Facade - 29: 
-[INFO ] 2018-10-25 Facade - 30: 
-[INFO ] 2018-10-25 Facade - 31: 
-[INFO ] 2018-10-25 Facade - 32: 
-[INFO ] 2018-10-25 Facade - 33: 
-[INFO ] 2018-10-25 Facade - 34: 
-[INFO ] 2018-10-25 Facade - 35: 
-[INFO ] 2018-10-25 CidnyUserAndPermission - **** User & Permission ****
-[INFO ] 2018-10-25 CidnyUserAndPermission - Status: Currently Listed 3 User
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: User & Permission
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/userPermission
-[INFO ] 2018-10-25 CidnyDepartment - **** Department ****
-[INFO ] 2018-10-25 CidnyDepartment - Status: Currently Listed 8 Department
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Department
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/department
-[INFO ] 2018-10-25 CidnyProgram - **** Program ****
-[INFO ] 2018-10-25 CidnyProgram - Status: Currently Listed 12 Program
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Program
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/program
-[INFO ] 2018-10-25 CidnyDesignation - **** Designation ****
-[INFO ] 2018-10-25 CidnyDesignation - Status: Currently Listed 13 Designation
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Designation
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/designation
-[INFO ] 2018-10-25 CidnySpecialAccommodation - **** Special Accommodation ****
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Special Accommodation
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/accommodation
-[INFO ] 2018-10-25 CidnyEducationalBackground - **** Educational Background ****
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Educational Background
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/educational
-[INFO ] 2018-10-25 CidnyEmploymentStatus - **** Employment Status ****
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Employment Status
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/employement
-[INFO ] 2018-10-25 CidnyProfile - **** Profile ****
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Profile
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/org/profile
-[INFO ] 2018-10-25 CidnyCorporateDocs - **** Corporate Documents ****
-[INFO ] 2018-10-25 CidnyCorporateDocs - Status: Currently Listed 3 File
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Corporate Documents
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/org/corpdocs
-[INFO ] 2018-10-25 CidnyBoardOfDirector - **** Board Of Directors ****
-[INFO ] 2018-10-25 CidnyBoardOfDirector - Status: Currently Listed 6 Board Member
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Board Of Directors
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/board-of-directors
-[INFO ] 2018-10-25 CidnyCommittee - **** Committee ****
-[INFO ] 2018-10-25 CidnyCommittee - Status: Currently Listed 1 Committee
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Committee
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/committee
-[INFO ] 2018-10-25 CidnyFundSource - **** Fund Source ****
-[INFO ] 2018-10-25 CidnyFundSource - Status: Currently Listed 6 Fund Source
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Fund Source
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/source
-[INFO ] 2018-10-25 CidnyFunding - **** Funding ****
-[INFO ] 2018-10-25 CidnyFunding - Status: Currently Listed 9 Funding
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Funding
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/funds
-[INFO ] 2018-10-25 CidnyTargetArea - **** Target Area ****
-[INFO ] 2018-10-25 CidnyTargetArea - Status: Currently Listed 2 Target Area
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Target Area
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/org/target-area
-[INFO ] 2018-10-25 CidnyServices - **** Services ****
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Services
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/org/serve-services
-[INFO ] 2018-10-25 CidnyPersonnelDetails - **** Personnel ****
-[INFO ] 2018-10-25 CidnyPersonnelDetails - Status: Currently Listed 12 People
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Personnel Details
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/personnel
-[INFO ] 2018-10-25 CidnyLineItem - **** Line Item ****
-[INFO ] 2018-10-25 CidnyLineItem - Status: Currently Listed 9 Line Item
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Line Item
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/line-item
-[INFO ] 2018-10-25 CidnyMasterBudget - **** Master Budget ****
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Master Budget
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/master-budget
-[INFO ] 2018-10-25 CidnyProgramBudget - **** Program Budget ****
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Program Budget
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/program-budget
-[INFO ] 2018-10-25 CidnyExpense - **** Expense ****
-[INFO ] 2018-10-25 CidnyExpense - Status: Currently Listed 17 Expense
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Expense
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/expense
-[INFO ] 2018-10-25 CidnyProjects - **** Projects ****
-[INFO ] 2018-10-25 CidnyProjects - Status: Currently Listed 5 Project
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Projects
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/project
-[INFO ] 2018-10-25 CidnyClientIntake - **** Client Intake ****
-[INFO ] 2018-10-25 CidnyClientIntake - Status: Currently Listed 27 Client
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Client Intake
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/client-intake
-[INFO ] 2018-10-25 CidnyCaseManagement - **** Case Management ****
-[INFO ] 2018-10-25 CidnyCaseManagement - Status: Currently Listed 17 Case
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Case Management
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/casemanagement
-[INFO ] 2018-10-25 CidnyExternalOrganization - **** External Organization ****
-[INFO ] 2018-10-25 CidnyExternalOrganization - Status: Currently Listed 3 External Organization
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: External Organization
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/training/externalOrganization
-[INFO ] 2018-10-25 CidnyExternalTrainer - **** External Trainer ****
-[INFO ] 2018-10-25 CidnyExternalTrainer - Status: Currently Listed 2 External Trainer
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: External Trainer
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/training/externalTrainer
-[INFO ] 2018-10-25 CidnyTrainingManagement - **** Training Management ****
-[INFO ] 2018-10-25 CidnyTrainingManagement - Status: Currently Listed 2 Training
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Training Management
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/training/trainManagement
-[INFO ] 2018-10-25 CidnyProgramActivity - **** Program Activity ****
-[INFO ] 2018-10-25 CidnyProgramActivity - Status: Currently Listed 12 Program Activity
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Program Activity
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/program-activity
-[INFO ] 2018-10-25 CidnyAdvocacyManagement - **** Advocacy Management ****
-[INFO ] 2018-10-25 CidnyAdvocacyManagement - Status: Currently Listed 1 Advocacy Management
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Advocacy Management
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/advocacy-management
-[INFO ] 2018-10-25 CidnyAdvocacyArea - **** Advocacy Area ****
-[INFO ] 2018-10-25 CidnyAdvocacyArea - Status: Currently Listed 27 Advocacy Area
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Advocacy Area
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/advocacy-area
-[INFO ] 2018-10-25 CidnyLogActivity - **** Log Activity ****
-[INFO ] 2018-10-25 CidnyLogActivity - Status: Currently Listed 2 Log Activity
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Log Activity
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/log-activity
-[INFO ] 2018-10-25 CidnyFinancialMonitoring - **** Financial Monitoring ****
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Financial Monitoring
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/financial-monitoring
-[INFO ] 2018-10-25 CidnyPersonnelMonitoring - **** Personnel Monitoring ****
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Personnel Monitoring
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/personnel-monitoring
-[INFO ] 2018-10-25 CidnyProgramMonitoring - **** Program Monitoring ****
-[INFO ] 2018-10-25 Facade - Page Label is Verified as: Program Monitoring
-[INFO ] 2018-10-25 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/program-monitoring
-[INFO ] 2018-10-25 Main - Test Ended at: 17:01:00.417
-[INFO ] 2018-10-25 Main - headless Browser is Closing....
+[INFO ] 2018-10-29 Main - Which browser do you want to use ? 
+[INFO ] 2018-10-29 Main - Test Started At: 13:01:44.247
+[INFO ] 2018-10-29 CidnyLogin - Base URL is: http://192.168.1.121:8080/#/
+[INFO ] 2018-10-29 CidnyLogin - Successfully Logged In !
+[INFO ] 2018-10-29 CidnyLogin - Page Title is: CIDNY
+[INFO ] 2018-10-29 CidnyLogin - Dashboard URL: http://192.168.1.121:8080/#/dashboard
+[INFO ] 2018-10-29 Facade - Total 35 Links found !
+[INFO ] 2018-10-29 Facade - 1: 
+[INFO ] 2018-10-29 Facade - 2: 
+[INFO ] 2018-10-29 Facade - 3: 
+[INFO ] 2018-10-29 Facade - 4: 
+[INFO ] 2018-10-29 Facade - 5: 
+[INFO ] 2018-10-29 Facade - 6: 
+[INFO ] 2018-10-29 Facade - 7: 
+[INFO ] 2018-10-29 Facade - 8: 
+[INFO ] 2018-10-29 Facade - 9: 
+[INFO ] 2018-10-29 Facade - 10: 
+[INFO ] 2018-10-29 Facade - 11: 
+[INFO ] 2018-10-29 Facade - 12: 
+[INFO ] 2018-10-29 Facade - 13: 
+[INFO ] 2018-10-29 Facade - 14: 
+[INFO ] 2018-10-29 Facade - 15: 
+[INFO ] 2018-10-29 Facade - 16: 
+[INFO ] 2018-10-29 Facade - 17: 
+[INFO ] 2018-10-29 Facade - 18: 
+[INFO ] 2018-10-29 Facade - 19: 
+[INFO ] 2018-10-29 Facade - 20: 
+[INFO ] 2018-10-29 Facade - 21: 
+[INFO ] 2018-10-29 Facade - 22: 
+[INFO ] 2018-10-29 Facade - 23: 
+[INFO ] 2018-10-29 Facade - 24: 
+[INFO ] 2018-10-29 Facade - 25: 
+[INFO ] 2018-10-29 Facade - 26: 
+[INFO ] 2018-10-29 Facade - 27: 
+[INFO ] 2018-10-29 Facade - 28: 
+[INFO ] 2018-10-29 Facade - 29: 
+[INFO ] 2018-10-29 Facade - 30: 
+[INFO ] 2018-10-29 Facade - 31: 
+[INFO ] 2018-10-29 Facade - 32: 
+[INFO ] 2018-10-29 Facade - 33: 
+[INFO ] 2018-10-29 Facade - 34: 
+[INFO ] 2018-10-29 Facade - 35: 
+[INFO ] 2018-10-29 CidnyUserAndPermission - **** User & Permission ****
+[INFO ] 2018-10-29 CidnyUserAndPermission - Status: Currently Listed 4 User
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: User & Permission
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/userPermission
+[INFO ] 2018-10-29 CidnyDepartment - **** Department ****
+[INFO ] 2018-10-29 CidnyDepartment - Status: Currently Listed 8 Department
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Department
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/department
+[INFO ] 2018-10-29 CidnyProgram - **** Program ****
+[INFO ] 2018-10-29 CidnyProgram - Status: Currently Listed 12 Program
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Program
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/program
+[INFO ] 2018-10-29 CidnyDesignation - **** Designation ****
+[INFO ] 2018-10-29 CidnyDesignation - Status: Currently Listed 13 Designation
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Designation
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/designation
+[INFO ] 2018-10-29 CidnySpecialAccommodation - **** Special Accommodation ****
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Special Accommodation
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/accommodation
+[INFO ] 2018-10-29 CidnyEducationalBackground - **** Educational Background ****
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Educational Background
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/educational
+[INFO ] 2018-10-29 CidnyEmploymentStatus - **** Employment Status ****
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Employment Status
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/employement
+[INFO ] 2018-10-29 CidnyProfile - **** Profile ****
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Profile
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/org/profile
+[INFO ] 2018-10-29 CidnyCorporateDocs - **** Corporate Documents ****
+[INFO ] 2018-10-29 CidnyCorporateDocs - Status: Currently Listed 3 File
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Corporate Documents
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/org/corpdocs
+[INFO ] 2018-10-29 CidnyBoardOfDirector - **** Board Of Directors ****
+[INFO ] 2018-10-29 CidnyBoardOfDirector - Status: Currently Listed 8 Board Member
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Board Of Directors
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/board-of-directors
+[INFO ] 2018-10-29 CidnyCommittee - **** Committee ****
+[INFO ] 2018-10-29 CidnyCommittee - Status: Currently Listed 1 Committee
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Committee
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/committee
+[INFO ] 2018-10-29 CidnyFundSource - **** Fund Source ****
+[INFO ] 2018-10-29 CidnyFundSource - Status: Currently Listed 6 Fund Source
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Fund Source
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/source
+[INFO ] 2018-10-29 CidnyFunding - **** Funding ****
+[INFO ] 2018-10-29 CidnyFunding - Status: Currently Listed 9 Funding
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Funding
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/funds
+[INFO ] 2018-10-29 CidnyTargetArea - **** Target Area ****
+[INFO ] 2018-10-29 CidnyTargetArea - Status: Currently Listed 2 Target Area
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Target Area
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/org/target-area
+[INFO ] 2018-10-29 CidnyServices - **** Services ****
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Services
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/org/serve-services
+[INFO ] 2018-10-29 CidnyPersonnelDetails - **** Personnel ****
+[INFO ] 2018-10-29 CidnyPersonnelDetails - Status: Currently Listed 13 People
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Personnel Details
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/personnel
+[INFO ] 2018-10-29 CidnyLineItem - **** Line Item ****
+[INFO ] 2018-10-29 CidnyLineItem - Status: Currently Listed 9 Line Item
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Line Item
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/line-item
+[INFO ] 2018-10-29 CidnyMasterBudget - **** Master Budget ****
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Master Budget
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/master-budget
+[INFO ] 2018-10-29 CidnyProgramBudget - **** Program Budget ****
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Program Budget
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/program-budget
+[INFO ] 2018-10-29 CidnyExpense - **** Expense ****
+[INFO ] 2018-10-29 CidnyExpense - Status: Currently Listed 17 Expense
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Expense
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/expense
+[INFO ] 2018-10-29 CidnyProjects - **** Projects ****
+[INFO ] 2018-10-29 CidnyProjects - Status: Currently Listed 6 Project
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Projects
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/project
+[INFO ] 2018-10-29 CidnyClientIntake - **** Client Intake ****
+[INFO ] 2018-10-29 CidnyClientIntake - Status: Currently Listed 30 Client
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Client Intake
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/client-intake
+[INFO ] 2018-10-29 CidnyCaseManagement - **** Case Management ****
+[INFO ] 2018-10-29 CidnyCaseManagement - Status: Currently Listed 20 Case
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Case Management
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/casemanagement
+[INFO ] 2018-10-29 CidnyExternalOrganization - **** External Organization ****
+[INFO ] 2018-10-29 CidnyExternalOrganization - Status: Currently Listed 3 External Organization
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: External Organization
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/training/externalOrganization
+[INFO ] 2018-10-29 CidnyExternalTrainer - **** External Trainer ****
+[INFO ] 2018-10-29 CidnyExternalTrainer - Status: Currently Listed 2 External Trainer
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: External Trainer
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/training/externalTrainer
+[INFO ] 2018-10-29 CidnyTrainingManagement - **** Training Management ****
+[INFO ] 2018-10-29 CidnyTrainingManagement - Status: Currently Listed 2 Training
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Training Management
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/training/trainManagement
+[INFO ] 2018-10-29 CidnyProgramActivity - **** Program Activity ****
+[INFO ] 2018-10-29 CidnyProgramActivity - Status: Currently Listed 12 Program Activity
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Program Activity
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/program-activity
+[INFO ] 2018-10-29 CidnyAdvocacyManagement - **** Advocacy Management ****
+[INFO ] 2018-10-29 CidnyAdvocacyManagement - Status: Currently Listed 1 Advocacy Management
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Advocacy Management
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/advocacy-management
+[INFO ] 2018-10-29 CidnyAdvocacyArea - **** Advocacy Area ****
+[INFO ] 2018-10-29 CidnyAdvocacyArea - Status: Currently Listed 27 Advocacy Area
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Advocacy Area
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/advocacy-area
+[INFO ] 2018-10-29 CidnyLogActivity - **** Log Activity ****
+[INFO ] 2018-10-29 CidnyLogActivity - Status: Currently Listed 2 Log Activity
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Log Activity
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/log-activity
+[INFO ] 2018-10-29 CidnyFinancialMonitoring - **** Financial Monitoring ****
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Financial Monitoring
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/financial-monitoring
+[INFO ] 2018-10-29 CidnyPersonnelMonitoring - **** Personnel Monitoring ****
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Personnel Monitoring
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/personnel-monitoring
+[INFO ] 2018-10-29 CidnyProgramMonitoring - **** Program Monitoring ****
+[INFO ] 2018-10-29 Facade - Page Label is Verified as: Program Monitoring
+[INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/program-monitoring
+[INFO ] 2018-10-29 Main - Test Ended at: 13:01:44.247
+[INFO ] 2018-10-29 Main - headless Browser is Closing....
