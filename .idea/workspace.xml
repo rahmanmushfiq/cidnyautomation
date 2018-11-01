@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea326567-06df-4678-8066-de20370631c8" name="Default Changelist" comment="">
+    <list default="true" id="ea326567-06df-4678-8066-de20370631c8" name="Default Changelist" comment="Updated with latest Tests">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9df4437f59ff1f97170571a8cae6725655d7360" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9df4437f59ff1f97170571a8cae6725655d7360" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd42ee3f99deab9b44513d24b3e6d292b1380ab3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd42ee3f99deab9b44513d24b3e6d292b1380ab3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,35 +15,43 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1828744046">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="27" />
+          <entry key="project.closed" value="31" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.13" value="4" />
-          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.17" value="3" />
-          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.17" value="4" />
+          <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="3" />
           <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="27" />
+          <entry key="project.opened" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
           <entry key="data" value="2" />
-          <entry key="java" value="379" />
+          <entry key="java" value="382" />
           <entry key="log" value="6" />
           <entry key="properties" value="4" />
           <entry key="xml" value="5" />
@@ -48,7 +60,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="379" />
+          <entry key="JAVA" value="382" />
           <entry key="Log" value="5" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Properties" value="4" />
@@ -58,7 +70,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="11" />
-          <entry key="java" value="13476" />
+          <entry key="java" value="13521" />
           <entry key="log" value="3" />
           <entry key="properties" value="28" />
           <entry key="txt" value="40" />
@@ -67,7 +79,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13476" />
+          <entry key="JAVA" value="13521" />
           <entry key="Log" value="3" />
           <entry key="PLAIN_TEXT" value="51" />
           <entry key="Properties" value="28" />
@@ -76,9 +88,9 @@
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
-          <entry key="git.branch.checkout.local" value="3" />
+          <entry key="git.branch.checkout.local" value="5" />
           <entry key="git.branch.create.new" value="1" />
-          <entry key="git.branch.merge" value="8" />
+          <entry key="git.branch.merge" value="9" />
           <entry key="git.checkout.as.new.branch" value="1" />
         </counts>
       </usages-collector>
@@ -92,8 +104,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/tests/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="197" column="74" lean-forward="true" selection-start-line="197" selection-start-column="74" selection-end-line="197" selection-end-column="74" />
+            <state relative-caret-position="335">
+              <caret line="240" column="53" selection-start-line="240" selection-start-column="53" selection-end-line="240" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,18 +143,10 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/tests/facade/Facade.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/pages/links/ProjectLinks.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/resources/log4j2.properties" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/tests/CidnyLogin.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/tests/Main.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyEmploymentStatus.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyUserAndPermission.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/pages/credentials/Credentials.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/tests/personnel/CidnyPersonnelDetails.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyDesignation.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/tests/facade/Facade.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyDepartment.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyProgram.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/pages/LoginPageElements.java" root0="SKIP_INSPECTION" />
   </component>
@@ -198,8 +202,8 @@
         <option value="$PROJECT_DIR$/src/main/java/pages/LoginPageElements.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/credentials/Credentials.java" />
         <option value="$PROJECT_DIR$/src/main/java/tests/CidnyLogin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tests/Main.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j2.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/tests/Main.java" />
       </list>
     </option>
   </component>
@@ -256,7 +260,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -268,20 +272,20 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="SearchEverywhereHistoryKey" value="logge&#9;PSI&#9;JAVA://com.sun.javafx.logging.Logger" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540798680634" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540799046598" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -343,6 +347,7 @@
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +369,28 @@
       <option name="project" value="LOCAL" />
       <updated>1540378884404</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated with latest Tests">
+      <created>1540798677428</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540798677428</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated with latest Tests">
+      <created>1540798714653</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540798714653</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated with latest Tests">
+      <created>1540798727184</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540798727184</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -377,10 +403,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1366" height="741" extended-state="6" />
+    <frame x="0" y="-1" width="1366" height="740" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49933246" visible="true" weight="0.225" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49933246" visible="true" weight="0.17424242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -395,12 +421,13 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.52922076" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007576" side_tool="true" weight="0.4605475" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007576" side_tool="true" weight="0.3284553" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32792208" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3262987" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.8051948" />
       <window_info anchor="bottom" id="SonarLint" order="12" weight="0.32792208" />
       <window_info anchor="bottom" id="Dependency Viewer" order="13" weight="0.67045456" />
+      <window_info anchor="bottom" id="CheckStyle" order="14" sideWeight="0.49924242" weight="0.3284553" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -731,16 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/facade/Facade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyDesignation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="463">
@@ -752,9 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-          <folding>
-            <element signature="e#516#517#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -762,9 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
           <caret line="27" column="93" selection-start-line="27" selection-start-column="93" selection-end-line="27" selection-end-column="93" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -786,13 +797,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/pages/Budget.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#701#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/logs/CidnyAutomationLog.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider">
@@ -808,10 +813,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tests/facade/Facade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tests/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="197" column="74" lean-forward="true" selection-start-line="197" selection-start-column="74" selection-end-line="197" selection-end-column="74" />
+        <state relative-caret-position="335">
+          <caret line="240" column="53" selection-start-line="240" selection-start-column="53" selection-end-line="240" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
