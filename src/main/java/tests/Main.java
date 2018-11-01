@@ -34,32 +34,29 @@ import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
 class Main {
-    private static WebDriver driver;
-    private static String browser;
     private static final String PROJECTPATH = System.getProperty ("user.dir");
     private static final String OS = System.getProperty ("os.name");
     private static final String TIME = LocalDateTime.now ().format (DateTimeFormatter.ISO_LOCAL_TIME);
     private static final Logger logger = LogManager.getLogger (Main.class);
-    
     /**
      * For Windows Operating System
      */
     private static final String WINCHROMEDRIVERPATH = PROJECTPATH + "\\drivers\\chromedriver\\chromedriver.exe";
     private static final String WINGECKODRIVERPATH = PROJECTPATH + "\\drivers\\firefoxdriver\\geckodriver.exe";
     private static final String WINEDGEDRIVERPATH = PROJECTPATH + "\\drivers\\edgedriver\\MicrosoftWebDriver.exe";
-
     /**
      * For Linux Operating System
      */
     private static final String LINUXCHROMEDRIVERPATH = PROJECTPATH + "/drivers/chromedriver/chromedriver";
     private static final String LINUXGECKODRIVERPATH = PROJECTPATH + "/drivers/firefoxdriver/geckodriver";
-
     /*
     Driver Keys
      */
     private static final String CHROMEDRIVERKEY = "webdriver.chrome.driver";
     private static final String GECKODRIVERKEY = "webdriver.gecko.driver";
     private static final String EDGEDRIVERKEY = "webdriver.edge.driver";
+    private static WebDriver driver;
+    private static String browser;
 
     public static void main (String[] args) throws Exception {
         while (true) {
@@ -191,7 +188,7 @@ class Main {
                 } else if (browser.equalsIgnoreCase ("Headless")) {
                     System.setProperty (CHROMEDRIVERKEY, WINCHROMEDRIVERPATH);
                     ChromeOptions options = new ChromeOptions ();
-                    options.addArguments ("--headless");
+                    options.addArguments ("--headless", "--disable-gpu", "--ignore-certificate-errors");
                     driver = new ChromeDriver (options);
                     return true;
                 } else if (browser.equalsIgnoreCase ("Edge")) {
@@ -241,8 +238,10 @@ class Main {
         logger.info (browser + " Browser is Closing....");
         try {
             if (browser.equalsIgnoreCase ("Firefox")) {
+                driver.manage ().deleteAllCookies ();
                 driver.quit ();
             } else {
+                driver.manage ().deleteAllCookies ();
                 driver.close ();
                 driver.quit ();
             }
