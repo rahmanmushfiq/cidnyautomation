@@ -37,7 +37,7 @@ class Main {
     private static final String PROJECTPATH = System.getProperty ("user.dir");
     private static final String OS = System.getProperty ("os.name");
     private static final String TIME = LocalDateTime.now ().format (DateTimeFormatter.ISO_LOCAL_TIME);
-    private static final Logger logger = LogManager.getLogger (Main.class);
+    private static final Logger logger = LogManager.getLogger ();
     /**
      * For Windows Operating System
      */

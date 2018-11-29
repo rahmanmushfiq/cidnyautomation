@@ -164,3 +164,10 @@
 [INFO ] 2018-10-29 Facade - Page URL is Verified as: http://192.168.1.121:8080/#/program-monitoring
 [INFO ] 2018-10-29 Main - Test Ended at: 13:01:44.247
 [INFO ] 2018-10-29 Main - headless Browser is Closing....
+[INFO ] 2018-11-09 Main - Which browser do you want to use ? 
+[INFO ] 2018-11-09 Main - Test Started At: 11:38:52.092
+[INFO ] 2018-11-09 CidnyLogin - Base URL is: http://192.168.1.121:8080/#/
+[ERROR] 2018-11-09 CidnyLogin - Login Exception: [Ljava.lang.StackTraceElement;@518caac3
+[INFO ] 2018-11-09 CidnyLogin - Dashboard URL: http://192.168.1.121:8080/#/
+[INFO ] 2018-11-09 Facade - Total -1 Links found !
+[INFO ] 2018-11-09 CidnyUserAndPermission - **** User & Permission ****

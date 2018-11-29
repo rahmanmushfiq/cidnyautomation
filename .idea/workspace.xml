@@ -2,11 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea326567-06df-4678-8066-de20370631c8" name="Default Changelist" comment="Updated with latest Tests">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9df4437f59ff1f97170571a8cae6725655d7360" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9df4437f59ff1f97170571a8cae6725655d7360" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd42ee3f99deab9b44513d24b3e6d292b1380ab3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd42ee3f99deab9b44513d24b3e6d292b1380ab3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/CidnyAutomationLog.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/CidnyAutomationLog.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tests/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/CidnyAutomation.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/Advocacy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/Advocacy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/Budget.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/Budget.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/CaseManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/CaseManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/ClientIntake.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/ClientIntake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/Configuration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/Configuration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/ExternalOrganization.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/ExternalOrganization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/ExternalTrainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/ExternalTrainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/LoginPageElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/LoginPageElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/Monitoring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/Monitoring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/Organization.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/Organization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/PersonnelPageElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/PersonnelPageElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/ProgramActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/ProgramActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/Projects.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/Projects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/TrainingManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/TrainingManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/credentials/Credentials.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/credentials/Credentials.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/links/ProjectLinks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/links/ProjectLinks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/CidnyLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/CidnyLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/advocacy/CidnyAdvocacyArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/advocacy/CidnyAdvocacyArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/advocacy/CidnyAdvocacyManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/advocacy/CidnyAdvocacyManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/advocacy/CidnyLogActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/advocacy/CidnyLogActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/budget/CidnyExpense.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/budget/CidnyExpense.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/budget/CidnyLineItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/budget/CidnyLineItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/budget/CidnyMasterBudget.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/budget/CidnyMasterBudget.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/budget/CidnyProgramBudget.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/budget/CidnyProgramBudget.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/casemanagement/CidnyCaseManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/casemanagement/CidnyCaseManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/clientintake/CidnyClientIntake.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/clientintake/CidnyClientIntake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/configuration/CidnyDepartment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/configuration/CidnyDepartment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/configuration/CidnyDesignation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/configuration/CidnyDesignation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/configuration/CidnyEducationalBackground.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/configuration/CidnyEducationalBackground.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/configuration/CidnyEmploymentStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/configuration/CidnyEmploymentStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/configuration/CidnyProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/configuration/CidnyProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/configuration/CidnySpecialAccommodation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/configuration/CidnySpecialAccommodation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/configuration/CidnyUserAndPermission.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/configuration/CidnyUserAndPermission.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/facade/Facade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/facade/Facade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/monitoring/CidnyFinancialMonitoring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/monitoring/CidnyFinancialMonitoring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/monitoring/CidnyPersonnelMonitoring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/monitoring/CidnyPersonnelMonitoring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/monitoring/CidnyProgramMonitoring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/monitoring/CidnyProgramMonitoring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/organization/CidnyBoardOfDirector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/organization/CidnyBoardOfDirector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/organization/CidnyCommittee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/organization/CidnyCommittee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/organization/CidnyCorporateDocs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/organization/CidnyCorporateDocs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/organization/CidnyFundSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/organization/CidnyFundSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/organization/CidnyFunding.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/organization/CidnyFunding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/organization/CidnyProfile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/organization/CidnyProfile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/organization/CidnyServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/organization/CidnyServices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/organization/CidnyTargetArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/organization/CidnyTargetArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/personnel/CidnyPersonnelDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/personnel/CidnyPersonnelDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/programactivity/CidnyProgramActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/programactivity/CidnyProgramActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/projects/CidnyProjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/projects/CidnyProjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/training/CidnyExternalOrganization.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/training/CidnyExternalOrganization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/training/CidnyExternalTrainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/training/CidnyExternalTrainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/training/CidnyTrainingManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/training/CidnyTrainingManagement.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,80 +76,6 @@
       </map>
     </option>
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1828744046">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="31" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.12" value="3" />
-          <entry key="project.open.time.13" value="4" />
-          <entry key="project.open.time.15" value="3" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.17" value="4" />
-          <entry key="project.open.time.18" value="2" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.21" value="3" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="31" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="1" />
-          <entry key="data" value="2" />
-          <entry key="java" value="382" />
-          <entry key="log" value="6" />
-          <entry key="properties" value="4" />
-          <entry key="xml" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="382" />
-          <entry key="Log" value="5" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Properties" value="4" />
-          <entry key="XML" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="11" />
-          <entry key="java" value="13521" />
-          <entry key="log" value="3" />
-          <entry key="properties" value="28" />
-          <entry key="txt" value="40" />
-          <entry key="xml" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="13521" />
-          <entry key="Log" value="3" />
-          <entry key="PLAIN_TEXT" value="51" />
-          <entry key="Properties" value="28" />
-          <entry key="XML" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages">
-        <counts>
-          <entry key="git.branch.checkout.local" value="5" />
-          <entry key="git.branch.create.new" value="1" />
-          <entry key="git.branch.merge" value="9" />
-          <entry key="git.checkout.as.new.branch" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="CidnyAutomation" />
   </component>
@@ -104,8 +84,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/tests/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="240" column="53" selection-start-line="240" selection-start-column="53" selection-end-line="240" selection-end-column="53" />
+            <state relative-caret-position="345">
+              <caret line="53" column="7" lean-forward="true" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,12 +123,20 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/tests/facade/Facade.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/pages/links/ProjectLinks.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/tests/CidnyLogin.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/tests/Main.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/pages/LoginPageElements.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyEmploymentStatus.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyProgram.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyUserAndPermission.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyDepartment.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyDesignation.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/tests/facade/Facade.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/tests/CidnyLogin.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/tests/personnel/CidnyPersonnelDetails.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/tests/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/pages/links/ProjectLinks.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/log4j2.properties" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/pages/credentials/Credentials.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -260,7 +248,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,7 +260,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -338,8 +326,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Maven.Unnamed" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Maven.Unnamed" />
     </list>
     <recent_temporary>
       <list>
@@ -406,7 +394,7 @@
     <frame x="0" y="-1" width="1366" height="740" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49933246" visible="true" weight="0.17424242" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49933246" visible="true" weight="0.18636364" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -415,7 +403,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5006676" side_tool="true" weight="0.18723099" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" weight="0.7077922" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" weight="0.70731705" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44570503" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -428,6 +416,7 @@
       <window_info anchor="bottom" id="SonarLint" order="12" weight="0.32792208" />
       <window_info anchor="bottom" id="Dependency Viewer" order="13" weight="0.67045456" />
       <window_info anchor="bottom" id="CheckStyle" order="14" sideWeight="0.49924242" weight="0.3284553" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -465,26 +454,31 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated with latest Tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated with latest Tests" />
+    <MESSAGE value="Added function for deleting cookies before teardown" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added function for deleting cookies before teardown" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnySpecialAccommodation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tests/configuration/CidnyEducationalBackground.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
@@ -815,15 +809,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tests/facade/Facade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
+        <state relative-caret-position="1219">
           <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/LogManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="1224" column="18" selection-start-line="1224" selection-start-column="18" selection-end-line="1224" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tests/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="240" column="53" selection-start-line="240" selection-start-column="53" selection-end-line="240" selection-end-column="53" />
+        <state relative-caret-position="345">
+          <caret line="53" column="7" lean-forward="true" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

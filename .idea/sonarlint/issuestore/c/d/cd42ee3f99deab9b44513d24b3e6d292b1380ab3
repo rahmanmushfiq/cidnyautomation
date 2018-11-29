@@ -1,6 +1,6 @@
 
-Ssquid:S1191	"5Use classes from the Java API instead of Sun classes.(ÿƒß8ß¬«öë,
+O
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ŞˆšÔ
 V
-squid:S1065"9Replace this use of System.out or System.err by a logger.(ŞˆšÔ8ß¬«öë,
-V
-squid:S1068"9Replace this use of System.out or System.err by a logger.(ŞˆšÔ8ß¬«öë,
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ŞˆšÔ8ÕÖ©óë,
+Ssquid:S1191	"5Use classes from the Java API instead of Sun classes.(ÿƒß8Èêóë,
